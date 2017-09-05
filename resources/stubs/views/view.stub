@@ -1,0 +1,5 @@
+@extends('tukecx-theme::front._master')
+
+@section('content')
+
+@endsection
